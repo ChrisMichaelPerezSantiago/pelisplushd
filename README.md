@@ -17,7 +17,7 @@
          
 
 
- <!--<a href="https://nodei.co/npm/animeflv/"><img src="https://nodei.co/npm/pelisplushd.png"></a> -->
+ <a href="https://nodei.co/npm/pelisplushd/"><img src="https://nodei.co/npm/pelisplushd.png"></a>
 
 
 >Custom API of the pelisplushd website. The entire catalog is in Spanish; either the data and the servers. You can get all the data related to series and movies and their own servers for free.
