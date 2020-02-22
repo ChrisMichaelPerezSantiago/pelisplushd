@@ -48,7 +48,7 @@ Before cloning the repo **be sure** you have installed:
 Then:
 
 - Choose a folder project in your system and switch in `cd [folder path]`
-- Clone the repo in your folder path `git clone https://github.com/ChrisMichaelPerezSantiago/animeflv.git`
+- Clone the repo in your folder path `git clone https://github.com/ChrisMichaelPerezSantiago/pelisplushd.git`
 
 ---
 
