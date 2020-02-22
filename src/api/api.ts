@@ -440,7 +440,7 @@ export const getSeriesServersBySeason = async(id: string , season: number): Prom
     return{
       episode: j + 1,
       title: epsTitle,
-      previewImage: extra[0].episodeContentHanlder,
+      previewImage: extra[0].previewImage,
       synopsis: extra[0].synopsis,
       servers: servers
     }
