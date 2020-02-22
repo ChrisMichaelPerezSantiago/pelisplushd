@@ -6,4 +6,4 @@ cache:
     - node_modules
 before_script:
   - npm install
-script: npm test:e2e
+script: npm test
