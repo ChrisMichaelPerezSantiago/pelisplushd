@@ -27,6 +27,9 @@
 <img src="./assests/img/pelisplushd.png" width="100%" alt="">
 
 
+## 🚀 Custom Pelisplushd API URL
+- [x] [pelisplushd](https://pelisplushd.chrismichael.now.sh/v1/)
+
 ## 📚 **Development Diary**
 Describe the purpose of the project and give clues about what the code does. 
 For more information go to the following link [Diary Reference](./development_diary/README.md).
