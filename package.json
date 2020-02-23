@@ -1,6 +1,6 @@
 {
   "name": "pelisplushd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom API of the pelisplushd website. The entire catalog is in Spanish; either the data and the servers. You can get all the data related to series and movies and their own servers for free.",
   "author": {
     "name": "Chris Michael",
@@ -11,6 +11,8 @@
       "twitter": "https://twitter.com/Chris5855M"
     }
   },
+  "main": "dist/api/api.js",
+  "types": "dist/api",
   "contributors": [
     {
       "name": "Chris Michael",
