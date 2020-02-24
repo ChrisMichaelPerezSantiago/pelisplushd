@@ -13,6 +13,13 @@
   },
   "main": "dist/api/api.js",
   "types": "dist/api",
+  "keywords": [
+    "pelisplushd",
+    "pelisplus",
+    "pelisplushd",
+    "series",
+    "movies"
+  ],
   "contributors": [
     {
       "name": "Chris Michael",
