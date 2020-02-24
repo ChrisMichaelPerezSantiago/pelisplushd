@@ -26,6 +26,8 @@
 
 <img src="./assests/img/pelisplushd.png" width="100%" alt="">
 
+# 🚨 For a Spanish speaking community ... 🚨
+
 
 ## 🚀 Custom Pelisplushd API URL
 - [x] [pelisplushd](https://pelisplushd.chrismichael.now.sh/v1/)
